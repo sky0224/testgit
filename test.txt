@@ -4,3 +4,4 @@ learn git 20150623
 
 15:53 master modify
 15:43 create branch
+16:21 branck release
